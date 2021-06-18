@@ -36,13 +36,10 @@ partD30dayrxrate - The number of standardized 30-day supplies of opioids reimbur
 pctunins - Percent of the civilian noninstitutionalized population with no health insurance coverage
 
 num_SSPs - Total number of syringe exchange programs.
-Available Geography,"State, District, County
 
 bup_phys - Physicians Licensed to Administer Buprenorphine
-Available Geography,"State, District, County
 
 drugdep - Percent of People 12+ Reporting Drug Dependence
-Available Geography,"State, District, County
 
 pctunmetneed - Percent of total population needing but not receiving treatment for illicit drug use
 
