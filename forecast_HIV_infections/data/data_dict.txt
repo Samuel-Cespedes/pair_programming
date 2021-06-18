@@ -1,0 +1,65 @@
+AMAT_fac - Number of substance abuse treatment facilities offering all three MAT services (Buprenorphine, Methadone, Naltrexone)
+
+MH_fac - Number of facilities that provide mental health services
+
+Med_AMAT_fac - Number of substance abuse treatment facilities offering all three MAT services (Buprenorphine, Methadone, Naltrexone) and accept Medicaid
+
+Med_MH_fac - Number of facilities that provide mental health services and accept Medicaid
+
+Med_SA_fac - Number of facilities that provide substance abuse services and accept Medicaid
+
+Med_SMAT_fac - Number of substance abuse treatment facilities offering any MAT that accept Medicaid
+
+Med_TMAT_fac - Number of substance abuse treatment facilities offering at least two forms of MAT and accept Medicaid
+
+PLHIV - Number of people living with diagnosed HIV, among adults and adolescents 13 and older.
+
+Population -
+
+SA_fac - Number of facilities that provide substance abuse services
+
+SMAT_fac - Number of substance abuse treatment facilities offering any MAT
+
+TMAT_fac - Number of substance abuse treatment facilities offering at least two forms of MAT
+
+drugdeathrate - The rate of death from drug poisoning, including both illicit and prescription drugs, per 100,000 population."
+Available Geography,"State, District, County
+
+drugdeathrate_est - Age-adjusted drug poisoning deaths per 100,000 (modeled)
+
+drugdeaths - The total number of deaths from drug poisoning, including both illicit and prescription drugs.
+
+mme_percap - Opioids prescribed per capita, in morphine mg equivalents (MME)
+
+partD30dayrxrate - The number of standardized 30-day supplies of opioids reimbursed by Medicare Part D, per Medicare Part D enrollee
+
+pctunins - Percent of the civilian noninstitutionalized population with no health insurance coverage
+
+num_SSPs - Total number of syringe exchange programs.
+Available Geography,"State, District, County
+
+bup_phys - Physicians Licensed to Administer Buprenorphine
+Available Geography,"State, District, County
+
+drugdep - Percent of People 12+ Reporting Drug Dependence
+Available Geography,"State, District, County
+
+pctunmetneed - Percent of total population needing but not receiving treatment for illicit drug use
+
+nonmedpain - Percent of Population 12 or Older Reporting Non-medical Use of Pain Relievers
+
+ADULTMEN - Number of adult men (18+)
+
+MSM12MTH - Estimated number of MSM (past 12 months)
+
+MSM5YEAR - Estimated number of MSM (past 5 years)
+
+%msm12month -
+
+%msm5yr -
+
+unemployment_rate - Unemployment rate; Estimate; Population 16 years and over
+
+poverty_rate - Percent below poverty level; Estimate; Population for whom poverty status is determined
+
+household_income - Households; Estimate; Total
