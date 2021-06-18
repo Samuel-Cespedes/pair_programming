@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split 
 
 def fit_predict_plot(df, features, response):
     X = df[features]
